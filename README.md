@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1> Lucrezia Caleo </h1>
+
+<p align="center"><i> Digital Innovation • AI • Entrepreneurship </i>
 
 <!--
 **lucreziacaleo6-droid/lucreziacaleo6-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
