@@ -1,4 +1,4 @@
-<h1> Lucrezia Caleo </h1>
+<h1> align="center" Lucrezia Caleo </h1>
 
 <p align="center"><i> Digital Innovation • AI • Entrepreneurship </i>
 
